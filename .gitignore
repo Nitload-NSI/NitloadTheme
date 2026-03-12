@@ -1,0 +1,31 @@
+## Ignore Visual Studio temporary files, build results, and
+## temporary auto-generated files
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+arm64/
+[Bb]in/
+[Oo]bj/
+bld/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nupkg
+**/packages/repositories.config
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VSIX
+*.vsix
