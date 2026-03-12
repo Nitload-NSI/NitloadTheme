@@ -1082,7 +1082,7 @@
     </Category>
     <Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Selected Text">
@@ -1090,7 +1090,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Inactive Selected Text">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Selected Text in High Contrast">
@@ -5234,23 +5234,23 @@
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ToolWindowContentTabGradientBegin">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
       </Color>
       <Color Name="ToolWindowContentTabGradientEnd">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
       </Color>
       <Color Name="ToolWindowFloatingFrame">
         <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ToolWindowTabMouseOverBackgroundBegin">
-        <Background Type="CT_RAW" Source="FF3B4252" />
+        <Background Type="CT_RAW" Source="FF3E3E42" />
       </Color>
       <Color Name="ToolWindowTabMouseOverBackgroundEnd">
-        <Background Type="CT_RAW" Source="FF3B4252" />
+        <Background Type="CT_RAW" Source="FF3E3E42" />
       </Color>
       <Color Name="ToolWindowTabMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF434346" />
       </Color>
       <Color Name="ToolWindowTabMouseOverText">
         <Background Type="CT_RAW" Source="FFECEFF4" />
@@ -5814,43 +5814,43 @@
         <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="ToolWindowBackground">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
       </Color>
       <Color Name="ToolWindowBorder">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF434346" />
       </Color>
       <Color Name="ToolWindowButtonDown">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF4D4D50" />
       </Color>
       <Color Name="ToolWindowButtonDownBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF4D4D50" />
       </Color>
       <Color Name="ToolWindowButtonHoverActive">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF4D4D50" />
       </Color>
       <Color Name="ToolWindowButtonHoverActiveBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF4D4D50" />
       </Color>
       <Color Name="ToolWindowButtonHoverInactive">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF4D4D50" />
       </Color>
       <Color Name="ToolWindowButtonHoverInactiveBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF4D4D50" />
       </Color>
       <Color Name="ToolWindowText">
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ToolWindowTabSelectedTab">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF3E3E42" />
       </Color>
       <Color Name="ToolWindowTabBorder">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
       </Color>
       <Color Name="ToolWindowTabGradientBegin">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
       </Color>
       <Color Name="ToolWindowTabGradientEnd">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
       </Color>
       <Color Name="ToolWindowTabText">
         <Background Type="CT_RAW" Source="FFD8DEE9" />
@@ -6199,7 +6199,7 @@
         <Background Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="ToolWindowTabSelectedActiveText">
-        <Background Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FF3E3E42" />
       </Color>
       <Color Name="CommandBarTextMouseDown">
         <Background Type="CT_RAW" Source="FFECEFF4" />
@@ -6537,13 +6537,13 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="IconActionFill">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF007ACC" />
       </Color>
       <Color Name="IconGeneralFill">
-        <Background Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="IconGeneralStroke">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF414141" />
       </Color>
       <Color Name="ToolTipHintText">
         <Background Type="CT_RAW" Source="FF646E81" />
@@ -6626,10 +6626,10 @@
         <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="ToolWindowTabSelectedBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF3E3E42" />
       </Color>
       <Color Name="ToolWindowContentGrid">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF434346" />
       </Color>
       <Color Name="PanelHyperlinkInsideSelection">
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
@@ -6812,7 +6812,7 @@
     </Category>
     <Category Name="FSharpInteractive" GUID="{00ccee86-3140-4e06-a65a-a92665a40d6f}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Selected Text">
@@ -7163,7 +7163,7 @@
     </Category>
     <Category Name="Immediate Window" GUID="{6bb65c5a-2f31-4bde-9f48-8a38dc0c63e7}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Selected Text">
@@ -7171,7 +7171,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Inactive Selected Text">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Selected Text in High Contrast">
@@ -7701,23 +7701,23 @@
     </Category>
     <Category Name="Output Window" GUID="{9973efdf-317d-431c-8bc1-5e88cbfd4f7f}">
       <Color Name="urlformat">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="OutputHeading">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="OutputError">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
         <Foreground Type="CT_RAW" Source="FFBF616A" />
       </Color>
       <Color Name="OutputVerbose">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
         <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Selected Text">
@@ -7739,7 +7739,7 @@
     </Category>
     <Category Name="Package Manager Console" GUID="{f9d6bce6-c669-41db-8ee7-dd953828685b}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF333337" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Selected Text">
